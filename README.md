@@ -1,4 +1,4 @@
-simplify-domain
-===============
+simplify-php
+============
 
-DDD
+Simplify PHP
